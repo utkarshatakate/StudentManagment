@@ -1,0 +1,25 @@
+.main-div{
+    display: flex;
+    /* background: #e5dddd; */
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sub-div{
+    width: 26vw;
+   height: 32vh;
+    background: #f5efef;
+    text-align: center;
+    vertical-align: baseline;
+    display: flex
+;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    padding-left: 8px;
+    padding-top: 2px;
+}
